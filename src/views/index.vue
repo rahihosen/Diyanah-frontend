@@ -15,298 +15,14 @@
     <!-- category name show -->
                 <div class="product-category container">
         <div class="all-category"><h1>PRODUCT CATEGORIES</h1></div>
-
-        <!-- <div class="row">
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            alt="Dairy"
-                           
-                        />
-                    </a>
-                </div>
-                <router-link :to="{name: 'product.index'}" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Dairy</h3>
-                    </div>
-                </router-link>
-            </div>
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a href="#" class="category-image">
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://khaasfood.com/wp-content/uploads/2020/11/driedfish.png"
-                            data-wood-src="https://khaasfood.com/wp-content/uploads/2020/11/driedfish.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Fish</h3>
-                    </div>
-                </a>
-            </div>
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a href="#" class="category-image">
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/grocery.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Grocery</h3>
-                    </div>
-                </a>
-            </div>
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/meat.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Meat</h3>
-                    </div>
-                </a>
-            </div>
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/snacks.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/snacks.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Snacks</h3>
-                    </div>
-                </a>
-            </div>
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/fruits.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/fruits.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">fruits</h3>
-                    </div>
-                </a>
-            </div>
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Dairy</h3>
-                    </div>
-                </a>
-            </div>
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Dairy</h3>
-                    </div>
-                </a>
-            </div>
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Dairy</h3>
-                    </div>
-                </a>
-            </div>
-
-
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Dairy</h3>
-                    </div>
-                </a>
-            </div>
-
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Dairy</h3>
-                    </div>
-                </a>
-            </div>
-
-            <div class="wrapp-category col-md-2">
-                <div class="category-image-wrapp">
-                    <a
-                        href="#"
-                        class="category-image"
-                    >
-                        <img
-                            class="
-                                 
-                            "
-                            src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            data-wood-src="https://www.khaasfood.com/wp-content/uploads/2020/11/dairy.png"
-                            alt="Dairy"
-                            width="300"
-                        />
-                    </a>
-                </div>
-                <a href="#" class="category-link">
-                    <div class="hover-mask">
-                        <h3 class="category-title">Dairy</h3>
-                    </div>
-                </a>
-            </div>
-        </div> -->
-
-
                <div class="category-name-home">
                    <div class="row">
-                       .col-md-
+                       <div  v-for="category in categories" :key="category.id" class="col-md-3 bg-light border border-3 rounded-pill p-1 text-center m-2">
+                           <a class="cat-name-div" href="">
+                            <img class="p-1 mx-3" :src="baseURL+'category-icon/'+category.category_icon" alt="" height="40">
+                          <span class="fs-5">{{ category.name }}</span>
+                           </a>
+                       </div>
                    </div>
                </div>
 
@@ -561,5 +277,23 @@
     </div>
 </template>
 
+<script setup>
+import { ref } from 'vue';
+import Category from '../apis/Category';
 
+const baseURL = ref('');
+baseURL.value = axios.defaults.baseURLPublic;
+
+// categories
+const categories = ref([]);
+const { getCategories } = Category;
+getCategories().then(response => {
+    categories.value = response.data;
+}).catch(error => {
+    alert("Something went wrong.");
+    console.error(error.data);
+});
+console.log(categories.value);
+
+</script>
 

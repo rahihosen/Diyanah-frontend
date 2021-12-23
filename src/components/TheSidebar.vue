@@ -71,8 +71,6 @@ import Brand from '../apis/Brand';
 // categories
 const categories = ref([]);
 const { getCategories } = Category;
-
-
 getCategories().then(response => {
     categories.value = response.data;
 }).catch(error => {

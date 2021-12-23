@@ -26,21 +26,21 @@ window.addEventListener('DOMContentLoaded', event => {
 });
 
 
-const width  = window.innerWidth || document.documentElement.clientWidth || 
-document.body.clientWidth;
-const height = window.innerHeight|| document.documentElement.clientHeight|| 
-document.body.clientHeight;
+// const width  = window.innerWidth || document.documentElement.clientWidth || 
+// document.body.clientWidth;
+// const height = window.innerHeight|| document.documentElement.clientHeight|| 
+// document.body.clientHeight;
 
-//console.log(width, height);
-if (height <= 768){
-	$(function(){
-		$("#page-content-wrapper").click(function(){
-			// document.getElementById("#sidebar-wrapper").style.marginLeft = "-15rem"
-			alert("ok");
-		});
+// //console.log(width, height);
+// if (height <= 768){
+// 	$(function(){
+// 		$("#page-content-wrapper").click(function(){
+// 			// document.getElementById("#sidebar-wrapper").style.marginLeft = "-15rem"
+// 			alert("ok");
+// 		});
 		
-	})
-}
+// 	})
+// }
 
 
 let items = document.querySelectorAll('.slider-spacial .carousel-item')

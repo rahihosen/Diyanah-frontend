@@ -8,7 +8,7 @@
     height: 45px;
     border-radius: 5px;
     border: 0px;
-    margin-left: 150px;
+    /* margin-left: 150px; */
 }
 .brand-logo{
     width: auto;
@@ -456,6 +456,19 @@ height: 350px;
 #sidebar-wrapper a{
   border: none !important;
   font-weight: 600;
+}
+
+.cat-name-div{
+  text-decoration: none;
+  color: #000;
+}
+
+
+
+@media (max-width: 376px) {
+  .navbar-scarch-box{
+    margin-right: 70px;
+  }
 }
 /* templete css */
 
@@ -12265,11 +12278,7 @@ body.sb-sidenav-toggled #wrapper #sidebar-wrapper {
     right: 0;
     z-index: 1;
   }
-
-
-
-
-
+ 
   /* product css */
   
   
